@@ -1,0 +1,16 @@
+{
+    "config": {
+        "error": {
+            "unknown": "Unknown error",
+            "no_data": "There is no data for this ID available. Make sure it is correct, if it is wait until the data is updated and then add it again."
+        },
+        "step": {
+            "user": {
+				"description": "Enter the ID/domain of your custom component",
+                "data": {
+                    "id": "ID/Domain"
+                }
+            }
+        }
+   }
+}

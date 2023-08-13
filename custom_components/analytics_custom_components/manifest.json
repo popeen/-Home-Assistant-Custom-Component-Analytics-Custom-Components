@@ -1,0 +1,10 @@
+{
+  "domain": "analytics_custom_components",
+  "name": "Analytics custom components",  
+  "codeowners": ["@popeen"],
+  "config_flow": true,
+  "documentation": "https://github.com/popeen/-Home-Assistant-Custom-Component-Analytics-Custom-Components",
+  "iot_class": "assumed_state",
+  "issue_tracker": "https://github.com/popeen/-Home-Assistant-Custom-Component-Analytics-Custom-Components/issues",
+  "version": "0.1.0"
+}
