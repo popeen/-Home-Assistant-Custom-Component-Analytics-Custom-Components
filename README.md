@@ -1,4 +1,4 @@
-# Home-Assistant-Custom-Component-CC-Analytics
+# Home Assistant Custom Component: CC Analytics
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
 [![issues-shield]](issues)
